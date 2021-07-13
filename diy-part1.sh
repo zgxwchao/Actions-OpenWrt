@@ -21,3 +21,5 @@
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus package/luci-app-jd-dailybonus
 git clone https://github.com/MeIsReallyBa/k2p-openwrt-mt7615_5.0.2.0 package/k2p-openwrt-mt7615_5.0.2.0
 git clone https://github.com/rosywrt/luci-theme-rosy package/luci-theme-rosy
+#svn co https://github.com/281677160/openwrt-package/trunk/luci-app-dockerman package/luci-app-dockerman
+svn co https://github.com/281677160/openwrt-package/trunk/package/luci-app-dockerman package/luci-app-dockerman
